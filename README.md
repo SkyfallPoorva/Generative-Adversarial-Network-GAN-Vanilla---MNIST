@@ -47,7 +47,7 @@ $$
 
 $$
 L_D = -\left(\log D(x) + \log(1 - D(G(z)))\right)
-$4
+$$
 
 ---
 
