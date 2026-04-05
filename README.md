@@ -57,8 +57,8 @@ $$
 
 $$
 FID = ||\mu_r - \mu_f||^2 + Tr(\Sigma_r + \Sigma_f - 2(\Sigma_r \Sigma_f)^{1/2})
-$$
 Lower FID = better quality
+$$
 
 ---
 
